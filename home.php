@@ -8,7 +8,7 @@
 
     <div>
 		<h1>Europe<br>Archive</h1>
-        <h6>Erik Kessels / Thomas Mailaender</h6>
+        <h3>Erik Kessels / Thomas Mailaender</h6>
         <hr>
     </div>
 

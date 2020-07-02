@@ -15,8 +15,6 @@
         <div class="item-description">
             <div class="item-country-logo">
                 <img src="http://europearchive.eu/wp-content/uploads/2020/06/belgium-map-silhouette-vector-14558531.jpg" alt="">
-            </div>
-            <div class="item-description">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
                 exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 

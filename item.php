@@ -9,9 +9,9 @@
 
  <section>
     <div class="left">
-        <h3>Europe<br>Archive</h3>
-        <div class="item-title"><h4>Three Marias</h4></div>
-        <div class="item-location">Belgium - 1990</div>
+        <h1>Europe<br>Archive</h1>
+        <div class="item-title"><h2>Three Marias</h2></div>
+        <div class="item-location"><h3>Belgium - 1990</h3></div>
         <div class="item-description">
             <div class="item-country-logo">
                 <img src="http://europearchive.eu/wp-content/uploads/2020/06/belgium-map-silhouette-vector-14558531.jpg" alt="">

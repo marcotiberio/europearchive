@@ -17,8 +17,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<link href="https://www.fontify.me/wf/7d4ffba68c55d892d920706b2d4da0de" rel="stylesheet" type="text/css">
-
+	<link href="//db.onlinewebfonts.com/c/6fd7b3b855c698926b1fb22a720505ed?family=Berthold+Akzidenz+Grotesk+BE" rel="stylesheet" type="text/css"/>
+	
 	<?php wp_head(); ?>
 </head>
 

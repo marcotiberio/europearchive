@@ -59,6 +59,16 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
+
+@font-face {font-family: "Berthold Akzidenz Grotesk BE"; 
+	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot"); 
+	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot?#iefix") format("embedded-opentype"), 
+	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff2") format("woff2"), 
+	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff") format("woff"), 
+	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.ttf") format("truetype"), 
+	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.svg#Berthold Akzidenz Grotesk BE") format("svg"); }
+
+
 /* Document
 	 ========================================================================== */
 

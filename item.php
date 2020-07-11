@@ -10,9 +10,9 @@
  <section>
     <div class="left">
         <h1>Europe<br>Archive</h1>
-        <div class="item-title"><h2>Three Marias</h2></div>
+        <div class="item-title"><h2>German Shepard Bottle</h2></div>
         <div class="item-location">
-            <span class="country">Belgium - 1990</span>
+            <span class="country">Germany - 1980s</span>
             <span class="code">EA/FR/0001</span>
         </div>
         <div class="item-description">

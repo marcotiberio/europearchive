@@ -37,6 +37,6 @@
         </div>
     </div>
     <div class="right">
-        <img src="http://europearchive.eu/wp-content/uploads/2020/07/three-marias.png" alt="three marias">
+        <img src="http://europearchive.eu/wp-content/uploads/2020/07/pstoretedesco-front-e1594478203166.png" alt="three marias">
     </div>
  </section>

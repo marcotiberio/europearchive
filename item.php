@@ -12,12 +12,12 @@
         <h1>Europe<br>Archive</h1>
         <div class="item-title"><h2>German Shepard Bottle</h2></div>
         <div class="item-location">
-            <span class="country">Germany - 1980s</span>
+            <span class="country">Germany - 1980</span>
             <span class="code">EA/FR/0001</span>
         </div>
         <div class="item-description">
             <div class="item-description">
-                <img src="http://europearchive.eu/wp-content/uploads/2020/06/belgium-map-silhouette-vector-14558531.jpg" alt="">
+                <img src="http://europearchive.eu/wp-content/uploads/2020/07/germany-silhouette-map-vector-27494653.jpg" alt="">
                 Lorem ipsum dolor sit amet, consecte
                         tur adipiscing elit. Quisque sit amet
                         ac odio dapibus dictum eu at ipsum.

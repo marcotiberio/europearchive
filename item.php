@@ -18,12 +18,21 @@
         <div class="item-description">
             <div class="item-description">
                 <span><img src="http://europearchive.eu/wp-content/uploads/2020/06/belgium-map-silhouette-vector-14558531.jpg" alt=""></span>
-                <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
-                anim id est laborum.</p></span>
+                <span><p>Lorem ipsum dolor sit amet, consecte
+                        tur adipiscing elit. Quisque sit amet
+                        ac odio dapibus dictum eu at ipsum.
+                        Duis quis tellus porta, egestas sem sed, volutpat
+                        leo. Cras posuere consequat imperdiet. Suspendisse
+                        sed lorem turpis. Pellentesque sagittis
+                        at felis eget facilisis. Orci varius natoque penatibus
+                        et magnis dis parturient montes, nascetur
+                        ridiculus mus. Donec vitae eleifend orci. Quisque
+                        leo lacus, varius vitae luctus at, molestie sed
+                        velit. Curabitur orci lectus, consectetur et urna
+                        nec, ultricies mollis elit. Donec condimentum leo
+                        et consequat ultricies. Ut ultrices pellentesque
+                        velit sed blandit. Proin sapien sapien, mollis
+                        vitae ex id, faucibus pellentesque lectus.</p></span>
             </div>
         </div>
     </div>

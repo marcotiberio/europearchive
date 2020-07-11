@@ -12,8 +12,8 @@
         <h1>Europe<br>Archive</h1>
         <div class="item-title"><h2>Three Marias</h2></div>
         <div class="item-location">
-            <span class="country"><h3>Belgium - 1990</h3></span>
-            <span class="code"><h3>EA/FR/0001</h3></span>
+            <span class="country">Belgium - 1990</span>
+            <span class="code">EA/FR/0001</span>
         </div>
         <div class="item-description">
             <div class="item-description">

@@ -68,6 +68,13 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.ttf") format("truetype"), 
 	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.svg#Berthold Akzidenz Grotesk BE") format("svg"); }
 
+	@font-face {font-family: "Akkurat-Light"; src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot"); 
+		src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot?#iefix") format("embedded-opentype"), 
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff2") format("woff2"), 
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff") format("woff"), 
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.ttf") format("truetype"), 
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.svg#Akkurat-Light") format("svg"); }
+
 
 /* Document
 	 ========================================================================== */

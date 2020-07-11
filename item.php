@@ -39,7 +39,7 @@
     <div class="right">
         <div class="img-container">
             <img id="cover" src="http://europearchive.eu/wp-content/uploads/2020/07/pstoretedesco-front-e1594478203166.png" alt="">
-            <!-- <img id="backCover" src="http://europearchive.eu/wp-content/uploads/2020/07/pastoretedesco-back-e1594478327224.png" alt=""> -->
+            <img id="backCover" src="http://europearchive.eu/wp-content/uploads/2020/07/pastoretedesco-back-e1594478327224.png" alt="">
         </div>
     </div>
  </section>

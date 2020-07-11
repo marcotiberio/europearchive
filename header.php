@@ -18,6 +18,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<link href="//db.onlinewebfonts.com/c/6fd7b3b855c698926b1fb22a720505ed?family=Berthold+Akzidenz+Grotesk+BE" rel="stylesheet" type="text/css"/>
+	<link href="//db.onlinewebfonts.com/c/bc9fa02b4227255be2387a7e19a3e09b?family=Akkurat-Light" rel="stylesheet" type="text/css"/>
 	
 	<?php wp_head(); ?>
 </head>

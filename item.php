@@ -18,7 +18,7 @@
         <div class="item-description">
             <div class="item-description">
                 <img src="http://europearchive.eu/wp-content/uploads/2020/06/belgium-map-silhouette-vector-14558531.jpg" alt="">
-                <p>Lorem ipsum dolor sit amet, consecte
+                Lorem ipsum dolor sit amet, consecte
                         tur adipiscing elit. Quisque sit amet
                         ac odio dapibus dictum eu at ipsum.
                         Duis quis tellus porta, egestas sem sed, volutpat
@@ -32,7 +32,7 @@
                         nec, ultricies mollis elit. Donec condimentum leo
                         et consequat ultricies. Ut ultrices pellentesque
                         velit sed blandit. Proin sapien sapien, mollis
-                        vitae ex id, faucibus pellentesque lectus.</p>
+                        vitae ex id, faucibus pellentesque lectus.
             </div>
         </div>
     </div>

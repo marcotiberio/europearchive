@@ -79,7 +79,8 @@
         </div>
     </div>
     <div class="bottom">
-        <svg id="target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
+        <img id="target" src="http://europearchive.eu/wp-content/uploads/2020/07/target@2x.png" alt="">
+        <!-- <svg id="target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
             <defs>
                 <clipPath id="clip-path">
                 <path id="Path_7" data-name="Path 7" d="M0,0H34.1V-34.1H0Z" fill="none"/>
@@ -98,7 +99,7 @@
                 <path id="Path_9" data-name="Path 9" d="M0,0V-19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
                 </g>
             </g>
-        </svg>
+        </svg> -->
         <svg id="separatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="2" viewBox="0 0 348.661 2">
             <defs>
                 <clipPath id="clip-path">

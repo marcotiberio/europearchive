@@ -9,7 +9,6 @@
 
  <section>
     <div class="left">
-        <h1 onclick="window.location.href='http://europearchive.eu/'">Europe<br>Archive</h1>
         <div class="item-title"><h2>German Shepard Bottle</h2></div>
         <div class="item-location">
             <span class="country">Germany - 1980</span>

@@ -8,9 +8,8 @@
 
 
  <section>
-    <div class="left">
 
-        <svg id="separator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.771" height="34.102" viewBox="0 0 399.771 34.102">
+ <svg id="separator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.771" height="34.102" viewBox="0 0 399.771 34.102">
             <defs>
                 <clipPath id="clip-path">
                 <path id="Path_3" data-name="Path 3" d="M0,0H399.771V-34.1H0Z" fill="none"/>
@@ -33,6 +32,7 @@
                 </g>
             </g>
         </svg>
+    <div class="left">
         
         <div class="item-title"><h2>German Shepard Bottle</h2></div>
         <div class="item-location">
@@ -58,8 +58,6 @@
                 velit sed blandit. Proin sapien sapien, mollis
                 vitae ex id, faucibus pellentesque lectus. Ut ultrices 
                 pellentesque velit sed blandit. Proin sapien sapien, mollis
-                vitae ex id, faucibus pellentesque lectus. Ut ultrices 
-                pellentesque velit sed blandit. Proin sapien sapien, mollis
                 vitae ex id, faucibus pellentesque lectus.
             </div>
         </div>
@@ -74,9 +72,6 @@
 
  <div class="mobile">
     <div class="top">
-        <div class="title">
-            <h1>Europe<br>Archive</h1>
-        </div>
         <div class="img-container">
             <img id="cover" src="http://europearchive.eu/wp-content/uploads/2020/07/pstoretedesco-front-e1594478203166.png" alt="">
         </div>
@@ -127,8 +122,6 @@
                 nec, ultricies mollis elit. Donec condimentum leo
                 et consequat ultricies. Ut ultrices pellentesque
                 velit sed blandit. Proin sapien sapien, mollis
-                vitae ex id, faucibus pellentesque lectus. Ut ultrices 
-                pellentesque velit sed blandit. Proin sapien sapien, mollis
                 vitae ex id, faucibus pellentesque lectus. Ut ultrices 
                 pellentesque velit sed blandit. Proin sapien sapien, mollis
                 vitae ex id, faucibus pellentesque lectus.

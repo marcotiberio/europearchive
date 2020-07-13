@@ -9,12 +9,8 @@
 
  <section>
     <div class="left">
-        <div class="item-title"><h2>German Shepard Bottle</h2></div>
-        <div class="item-location">
-            <span class="country">Germany - 1980</span>
-            <span class="code">EA/FR/0001</span>
-        </div>
-            <svg id="separator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.771" height="34.102" viewBox="0 0 399.771 34.102">
+
+        <svg id="separator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="399.771" height="34.102" viewBox="0 0 399.771 34.102">
             <defs>
                 <clipPath id="clip-path">
                 <path id="Path_3" data-name="Path 3" d="M0,0H399.771V-34.1H0Z" fill="none"/>
@@ -36,7 +32,13 @@
                 <path id="Path_5" data-name="Path 5" d="M0,0V-19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
                 </g>
             </g>
-            </svg>
+        </svg>
+        
+        <div class="item-title"><h2>German Shepard Bottle</h2></div>
+        <div class="item-location">
+            <span class="country">Germany - 1980</span>
+            <span class="code">EA/FR/0001</span>
+        </div>
         <div class="item-description">
             <div class="item-description">
                 <img src="http://europearchive.eu/wp-content/uploads/2020/07/germany-silhouette-map-vector-27494653.jpg" alt="">

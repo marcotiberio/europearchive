@@ -43,7 +43,11 @@
         </div>
         <div class="item-description">
             <div class="item-description">
-                <img src="http://europearchive.eu/wp-content/uploads/2020/07/germany-silhouette-map-vector-27494653.jpg" alt="">
+                <?php 
+                    $image = get_field('item_country_icon');
+                    if( !empty( $image ) ): ?>
+                        <img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                <?php endif; ?>
                 <?php the_field('item_description'); ?>
             </div>
         </div>

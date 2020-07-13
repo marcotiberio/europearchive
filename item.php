@@ -71,7 +71,11 @@
  <div class="mobile">
     <div class="top">
         <div class="img-container">
-            <img id="cover" src="http://europearchive.eu/wp-content/uploads/2020/07/pstoretedesco-front-e1594478203166.png" alt="">
+        <?php 
+            $image = get_field('item_cover_image');
+            if( !empty( $image ) ): ?>
+                <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+        <?php endif; ?>
         </div>
     </div>
     <div class="bottom">

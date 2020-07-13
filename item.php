@@ -97,7 +97,7 @@
                 </g>
             </g>
         </svg>
-        <svg id="separatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348.661" height="2" viewBox="0 0 348.661 2">
+        <svg id="separatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="2" viewBox="0 0 348.661 2">
             <defs>
                 <clipPath id="clip-path">
                 <path id="Path_11" data-name="Path 11" d="M0,0H348.661V-2H0Z" fill="none"/>

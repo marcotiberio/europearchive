@@ -54,8 +54,16 @@
     </div>
     <div class="right">
         <div class="img-container">
-            <img id="cover" src="http://europearchive.eu/wp-content/uploads/2020/07/pstoretedesco-front-e1594478203166.png" alt="">
-            <img id="backCover" src="http://europearchive.eu/wp-content/uploads/2020/07/pastoretedesco-back-e1594478327224.png" alt="">
+        <?php 
+            $image = get_field('item_country_icon');
+            if( !empty( $image ) ): ?>
+                <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+        <?php endif; ?>
+        <?php 
+            $image = get_field('item_country_icon');
+            if( !empty( $image ) ): ?>
+                <img id="backCover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+        <?php endif; ?>
         </div>
     </div>
  </section>

@@ -34,10 +34,10 @@
         </svg>
     <div class="left">
         
-        <div class="item-title"><h2>German Shepard Bottle</h2></div>
+        <div class="item-title"><h2>Dog on a bottle that looks like a tree</h2></div>
         <div class="item-location">
             <span class="country">Germany - 1980</span>
-            <span class="code">EA/FR/0001</span>
+            <span class="code">EA/GE/0001</span>
         </div>
         <div class="item-description">
             <div class="item-description">
@@ -111,10 +111,10 @@
                 </g>
             </g>
         </svg>
-        <div class="item-title"><h2>German Shepard Bottle</h2></div>
+        <div class="item-title"><h2>Dog on a bottle that looks like a tree</h2></div>
         <div class="item-location">
             <span class="country">Germany - 1980</span>
-            <span class="code">EA/FR/0001</span>
+            <span class="code">EA/GE/0001</span>
         </div>
         <div class="item-description">
             <div class="item-description">

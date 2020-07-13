@@ -10,7 +10,7 @@
  <section>
 
     <div class="separator">
-        <svg id="separatorDesktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="611.746" height="2" viewBox="0 0 611.746 2">
+        <svg id="separatorDesktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="2" viewBox="0 0 611.746 2">
             <defs>
                 <clipPath id="clip-path">
                 <path id="Path_11" data-name="Path 11" d="M0,0H611.746V-2H0Z" transform="translate(0 2)" fill="none"/>

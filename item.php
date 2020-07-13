@@ -14,25 +14,25 @@
  
     <div class="left">
 
-    <svg id="targetDesktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
-        <defs>
-            <clipPath id="clip-path">
-            <path id="Path_7" data-name="Path 7" d="M0,0H34.1V-34.1H0Z" fill="none"/>
-            </clipPath>
-        </defs>
-        <g id="Group_11" data-name="Group 11" transform="translate(0 34.102)">
-            <g id="Group_8" data-name="Group 8" clip-path="url(#clip-path)">
-            <g id="Group_7" data-name="Group 7" transform="translate(17.051 -1)">
-                <path id="Path_6" data-name="Path 6" d="M0,0A16.051,16.051,0,0,0,16.051-16.051,16.051,16.051,0,0,0,0-32.1,16.051,16.051,0,0,0-16.051-16.051,16.051,16.051,0,0,0,0,0Z" fill="none" stroke="#2b2e34" stroke-width="2"/>
+        <svg id="targetDesktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
+            <defs>
+                <clipPath id="clip-path">
+                <path id="Path_7" data-name="Path 7" d="M0,0H34.1V-34.1H0Z" fill="none"/>
+                </clipPath>
+            </defs>
+            <g id="Group_11" data-name="Group 11" transform="translate(0 34.102)">
+                <g id="Group_8" data-name="Group 8" clip-path="url(#clip-path)">
+                <g id="Group_7" data-name="Group 7" transform="translate(17.051 -1)">
+                    <path id="Path_6" data-name="Path 6" d="M0,0A16.051,16.051,0,0,0,16.051-16.051,16.051,16.051,0,0,0,0-32.1,16.051,16.051,0,0,0-16.051-16.051,16.051,16.051,0,0,0,0,0Z" fill="none" stroke="#2b2e34" stroke-width="2"/>
+                </g>
+                </g>
+                <g id="Group_9" data-name="Group 9" transform="translate(7.413 -17.051)">
+                <path id="Path_8" data-name="Path 8" d="M0,0H19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
+                </g>
+                <g id="Group_10" data-name="Group 10" transform="translate(17.051 -7.413)">
+                <path id="Path_9" data-name="Path 9" d="M0,0V-19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
+                </g>
             </g>
-            </g>
-            <g id="Group_9" data-name="Group 9" transform="translate(7.413 -17.051)">
-            <path id="Path_8" data-name="Path 8" d="M0,0H19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
-            </g>
-            <g id="Group_10" data-name="Group 10" transform="translate(17.051 -7.413)">
-            <path id="Path_9" data-name="Path 9" d="M0,0V-19.276" fill="none" stroke="#2b2e34" stroke-width="2"/>
-            </g>
-        </g>
         </svg>
 
         

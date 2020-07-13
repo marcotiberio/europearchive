@@ -14,7 +14,7 @@
  
     <div class="left">
 
-    <svg id="target" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
+    <svg id="targetDesktop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.102" height="34.102" viewBox="0 0 34.102 34.102">
         <defs>
             <clipPath id="clip-path">
             <path id="Path_7" data-name="Path 7" d="M0,0H34.1V-34.1H0Z" fill="none"/>

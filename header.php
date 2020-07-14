@@ -31,7 +31,7 @@
 	<header id="masthead" class="site-header">
 		<div class="site-branding">
 			<img id="logoTitle" src="http://europearchive.eu/wp-content/uploads/2020/07/europearchive-logo-title.png" alt="" onclick="window.location.href='http://europearchive.eu'">
-			<!-- <h1>Europe<br>Archive</h1> -->
+			<h1>Europe<br>Archive</h1>
 		</div><!-- .site-branding -->
 
 		<nav id="site-navigation" class="main-navigation">

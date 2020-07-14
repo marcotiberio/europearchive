@@ -1,6 +1,6 @@
 <?php
 /*
- * Template Name: Item
+ * Template Name: Item Multiple Photos
  * Template Post Type: post, page, product
  */
   
@@ -58,6 +58,11 @@
             $image = get_field('item_cover_image');
             if( !empty( $image ) ): ?>
                 <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+        <?php endif; ?>
+        <?php 
+            $image = get_field('item_back-cover_image');
+            if( !empty( $image ) ): ?>
+                <img id="backCover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
         <?php endif; ?>
         </div>
     </div>

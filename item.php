@@ -79,7 +79,7 @@
         </div>
     </div>
     <div class="bottom">
-        <img id="target" src="http://europearchive.eu/wp-content/uploads/2020/07/target@2x.png" alt="">
+        <img id="target" src="http://europearchive.eu/wp-content/uploads/2020/07/target.png" alt="">
         <svg id="separatorMobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="2" viewBox="0 0 348.661 2">
             <defs>
                 <clipPath id="clip-path">

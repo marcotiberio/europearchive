@@ -72,7 +72,7 @@
     <div class="top">
         <div class="img-container">
         <?php 
-            $image = get_field('item_cover_image');
+            $image = get_field('item_cover_image_mobile');
             if( !empty( $image ) ): ?>
                 <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
         <?php endif; ?>

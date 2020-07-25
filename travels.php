@@ -38,8 +38,8 @@
         
         <div class="item-title"><h2><?php the_field('item_title'); ?></h2></div>
         <div class="item-location">
-            <span class="country"><?php the_field('item_country-year'); ?></span>
-            <span class="code"><?php the_field('item_code'); ?></span>
+            <p class="country"><?php the_field('travel_country'); ?></p>
+            <p class="code"><?php the_field('travel_date'); ?></p>
         </div>
         <div class="item-description">
             <div class="item-description">

@@ -33,16 +33,4 @@
 			<img id="logoTitle" src="http://europearchive.eu/wp-content/uploads/2020/07/europearchive-logo-title.png" alt="" onclick="window.location.href='http://europearchive.eu'">
 			<!-- <h1>Europe<br>Archive</h1> -->
 		</div><!-- .site-branding -->
-
-		<nav id="site-navigation" class="main-navigation">
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'europe-archive' ); ?></button>
-			<?php
-			wp_nav_menu(
-				array(
-					'theme_location' => 'menu-1',
-					'menu_id'        => 'primary-menu',
-				)
-			);
-			?>
-		</nav><!-- #site-navigation -->
 	</header><!-- #masthead -->

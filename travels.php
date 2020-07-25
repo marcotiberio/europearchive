@@ -91,8 +91,8 @@
         </svg>
         <div class="item-title"><h2><?php the_field('item_title'); ?></h2></div>
         <div class="item-location">
-            <span class="country"><?php the_field('item_country-year'); ?></span>
-            <span class="code"><?php the_field('item_code'); ?></span>
+            <span class="travel-country"><?php the_field('travel_country'); ?></span>
+            <span class="travel-date"><?php the_field('travel_date'); ?></span>
         </div>
         <div class="item-description">
             <div class="item-description">

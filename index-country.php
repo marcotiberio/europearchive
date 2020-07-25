@@ -8,7 +8,7 @@
 
  <section class="index-countries">
     <div class="bottom" id="gridCountries">
-        <div><a href="http://europearchive.eu/german-shepard-bottle/" target="_blank" rel="noopener noreferrer"></a><img src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></a></div>
+        <div><a href="http://europearchive.eu/german-shepard-bottle/" target="_blank" rel="noopener noreferrer"><img src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></a></div>
         <div><img src="http://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531.jpg" alt=""></div>
         <div><img src="http://europearchive.eu/wp-content/uploads/2020/07/bulgaria.jpg" alt=""></div>
         <div><img src="http://europearchive.eu/wp-content/uploads/2020/07/croatia-map-silhouette-isolated-vector-28801394.jpg" alt=""></div>

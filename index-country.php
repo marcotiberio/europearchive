@@ -17,7 +17,7 @@
         <div><img id="iconDenmark" src="http://europearchive.eu/wp-content/uploads/2020/07/denmark-solid-black-silhouette-map-of-country-vector-21714778.jpg" alt=""></div>
         <div><img id="iconEstonia" src="http://europearchive.eu/wp-content/uploads/2020/07/estonia-silhouette-map-vector-28115175.jpg" alt=""></div>
         <div><img id="iconFinland" src="http://europearchive.eu/wp-content/uploads/2020/07/finland-solid-black-silhouette-map-of-country-vector-21714780.jpg" alt=""></div>
-        <div><img id="iconFrance" src="http://europearchive.eu/wp-content/uploads/2020/07/france.jpg" alt=""></div>
+        <div><img id="iconFrance" src="http://europearchive.eu/wp-content/uploads/2020/07/france.jpg" alt="" onclick="window.open('http://europearchive.eu/les-debuts-de-colette/', '_blank');"></div>
         <div><img id="iconGermany" src="http://europearchive.eu/wp-content/uploads/2020/07/germany-silhouette-map-vector-27494653.jpg" alt="" onclick="window.open('http://europearchive.eu/german-shepard-bottle', '_blank');"></div>
         <div><img id="iconGreece" src="http://europearchive.eu/wp-content/uploads/2020/07/greece-solid-black-silhouette-map-of-country-vector-21665532.jpg" alt=""></div>
         <div><img id="iconHungary" src="http://europearchive.eu/wp-content/uploads/2020/07/hungary.jpg" alt=""></div>

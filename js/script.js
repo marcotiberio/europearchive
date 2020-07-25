@@ -1,7 +1,5 @@
 $(document).ready(function(){
-    $( "#logoHome" ).click(function() {
-        $( "#boxTypes" ).animate({
-            height: "75vh",
-            }, 200 );
-        });
+    $("#logoHome").click(function(){
+		$("#site-navigation").toggle();
+	  });
     });

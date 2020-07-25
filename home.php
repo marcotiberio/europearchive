@@ -9,7 +9,7 @@
     <!-- <h1 onclick="window.location.href='http://europearchive.eu/german-shepard-bottle/'">Europe<br>Archive</h1>
     <h2>Erik Kessels / Thomas Mailaender</h2> -->
 </section>
-<div class="box-bottom">
+<div class="box-bottom" id="boxBottom">
     <nav id="site-navigation" class="main-navigation">
         <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'europe-archive' ); ?></button>
         <?php

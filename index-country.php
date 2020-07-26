@@ -8,7 +8,34 @@
 
  <section class="index-countries">
     <div class="bottom" id="gridCountries">
-        <div><img id="iconAustria" src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></div>
+        <div id="iconAustria"></div>
+        <div id="iconBelgium"></div>
+        <div id="iconBulgaria"></div>
+        <div id="iconCroatia"></div>
+        <div id="iconCyprus"></div>
+        <div id="iconCzech"></div>
+        <div id="iconDenmark"></div>
+        <div id="iconEstonia"></div>
+        <div id="iconFinland"></div>
+        <div id="iconFrance"></div>
+        <div id="iconGermany"></div>
+        <div id="iconGreece"></div>
+        <div id="iconHungary"></div>
+        <div id="iconIreland"></div>
+        <div id="iconItaly"></div>
+        <div id="iconLatvia"></div>
+        <div id="iconLithuania"></div>
+        <div id="iconLuxembourg"></div>
+        <div id="iconNetherlands"></div>
+        <div id="iconMalta"></div>
+        <div id="iconPoland"></div>
+        <div id="iconPortugal"></div>
+        <div id="iconRomania"></div>
+        <div id="iconSlovakia"></div>
+        <div id="iconSlovenia"></div>
+        <div id="iconSpain"></div>
+        <div id="iconSweden"></div>
+        <!-- <div><img id="iconAustria" src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></div>
         <div><img id="iconBelgium" src="http://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531.jpg" alt=""></div>
         <div><img id="iconBulgaria" src="http://europearchive.eu/wp-content/uploads/2020/07/bulgaria.jpg" alt="" onclick="window.open('http://europearchive.eu/birth-and-death-photograph-of-the-same-person/', '_blank');"></div>
         <div><img id="iconCroatia" src="http://europearchive.eu/wp-content/uploads/2020/07/croatia-map-silhouette-isolated-vector-28801394.jpg" alt=""></div>
@@ -34,6 +61,6 @@
         <div><img id="iconSlovakia" src="http://europearchive.eu/wp-content/uploads/2020/07/slovakia-silhouette-map-vector-27803739.jpg" alt=""></div>
         <div><img id="iconSlovenia" src="http://europearchive.eu/wp-content/uploads/2020/07/black-silhouette-country-borders-map-of-slovenia-vector-19256111.jpg" alt=""></div>
         <div><img id="iconSpain" src="http://europearchive.eu/wp-content/uploads/2020/07/spain-silhouette-map-vector-26961823.jpg" alt="" onclick="window.open('http://europearchive.eu/flamenco-dancers-holding-10-matchboxes/', '_blank');"></div>
-        <div><img id="iconSweden" src="http://europearchive.eu/wp-content/uploads/2020/07/sweden-silhouette-map-vector-28202560.jpg" alt=""></div>
+        <div><img id="iconSweden" src="http://europearchive.eu/wp-content/uploads/2020/07/sweden-silhouette-map-vector-28202560.jpg" alt=""></div> -->
     </div>
  </section>

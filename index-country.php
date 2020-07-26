@@ -10,30 +10,30 @@
     <div class="bottom" id="gridCountries">
         <div id="iconAustria"></div>
         <div id="iconBelgium"></div>
-        <div id="iconBulgaria"></div>
+        <div id="iconBulgaria" onclick="window.open('http://europearchive.eu/birth-and-death-photograph-of-the-same-person/', '_blank');"></div>
         <div id="iconCroatia"></div>
         <div id="iconCyprus"></div>
         <div id="iconCzech"></div>
         <div id="iconDenmark"></div>
         <div id="iconEstonia"></div>
         <div id="iconFinland"></div>
-        <div id="iconFrance"></div>
-        <div id="iconGermany"></div>
+        <div id="iconFrance" onclick="window.open('http://europearchive.eu/les-debuts-de-colette/', '_blank');"></div>
+        <div id="iconGermany" onclick="window.open('http://europearchive.eu/german-shepard-bottle', '_blank');"></div>
         <div id="iconGreece"></div>
         <div id="iconHungary"></div>
         <div id="iconIreland"></div>
-        <div id="iconItaly"></div>
+        <div id="iconItaly" onclick="window.open('http://europearchive.eu/handmade-display-of-a-spoon-and-fork-salesman/', '_blank');"></div>
         <div id="iconLatvia"></div>
         <div id="iconLithuania"></div>
         <div id="iconLuxembourg"></div>
-        <div id="iconNetherlands"></div>
+        <div id="iconNetherlands" onclick="window.open('http://europearchive.eu/filmslides-in-a-tiny-matchbox/', '_blank');"></div>
         <div id="iconMalta"></div>
-        <div id="iconPoland"></div>
+        <div id="iconPoland" onclick="window.open('http://europearchive.eu/soft-erotic-scrapbook/', '_blank');"></div>
         <div id="iconPortugal"></div>
         <div id="iconRomania"></div>
         <div id="iconSlovakia"></div>
         <div id="iconSlovenia"></div>
-        <div id="iconSpain"></div>
+        <div id="iconSpain" onclick="window.open('http://europearchive.eu/flamenco-dancers-holding-10-matchboxes/', '_blank');"></div>
         <div id="iconSweden"></div>
         <!-- <div><img id="iconAustria" src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></div>
         <div><img id="iconBelgium" src="http://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531.jpg" alt=""></div>

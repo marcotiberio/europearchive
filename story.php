@@ -1,6 +1,6 @@
 <?php
 /*
- * Template Name: Travels
+ * Template Name: Story
  * Template Post Type: post, page, product
  */
   

@@ -26,7 +26,7 @@
         <div id="iconLatvia"></div>
         <div id="iconLithuania" onclick="window.open('https://europearchive.eu/female-shoes-stuffed-with-newspapers/', '_blank');"></div>
         <div id="iconLuxembourg"></div>
-        <div id="iconNetherlands" onclick="window.open('http://europearchive.eu/filmslides-in-a-tiny-matchbox/', '_blank');"></div>
+        <div id="iconNetherlands" onclick="window.open('https://europearchive.eu/photos-of-woman-trying-to-jump-of-roof/', '_blank');"></div>
         <div id="iconMalta"></div>
         <div id="iconPoland" onclick="window.open('https://europearchive.eu/folklore-dancers-on-vinyl-postcards/', '_blank');"></div>
         <div id="iconPortugal" onclick="window.open('https://europearchive.eu/pocket-passport-photo-album-of-3-brothers/', '_blank');"></div>

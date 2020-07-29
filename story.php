@@ -15,16 +15,12 @@
     <div class="left">
         <div class="item-title"><h2>SEARCHING EUROPEAN FLEA MARKETS TO RECREATE A COLLECTIVE MEMORY</h2></div>
         <div class="item-description">
-            <div class="item-description">
-                <?php the_field('item_description_left'); ?>
-            </div>
+            <?php the_field('item_description_left'); ?>
         </div>
     </div>
     <div class="right">
         <div class="item-description">
-            <div class="item-description">
-                <?php the_field('item_description_right'); ?>
-            </div>
+            <?php the_field('item_description_right'); ?>
         </div>
     </div>
 

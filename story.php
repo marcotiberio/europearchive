@@ -36,7 +36,7 @@
         </svg> -->
 
         
-        <div class="item-title"><h2><?php the_field('item_title'); ?></h2></div>
+        <div class="item-title"><h2>SEARCHING<br>EUROPEAN FLEA MARKETS<br>TO RECREATE<br>A COLLECTIVE<br>MEMORY</h2></div>
         <div class="item-location">
             <p class="travel-country"><?php the_field('travel_country'); ?></p>
             <p class="travel-date"><?php the_field('travel_date'); ?></p>
@@ -89,7 +89,7 @@
                 </g>
             </g>
         </svg> -->
-        <div class="item-title"><h2><?php the_field('item_title'); ?></h2></div>
+        <div class="item-title"><h2>SEARCHING<br>EUROPEAN FLEA MARKETS<br>TO RECREATE<br>A COLLECTIVE<br>MEMORY</h2></div>
         <div class="item-location">
             <p class="travel-country"><?php the_field('travel_country'); ?></p>
             <p class="travel-date"><?php the_field('travel_date'); ?></p>

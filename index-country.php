@@ -10,31 +10,31 @@
     <div class="bottom" id="gridCountries">
         <div id="iconAustria" onclick="window.open('https://europearchive.eu/portfolio-of-a-teacher-with-student-letters/', '_blank');"></div>
         <div id="iconBelgium" onclick="window.open('https://europearchive.eu/pan-sculpture-looking-like-a-house/', '_blank');"></div>
-        <div id="iconBulgaria" onclick="window.open('https://europearchive.eu/birth-and-death-photograph-of-the-same-person/', '_blank');"></div>
-        <div id="iconCroatia" onclick="window.open('https://europearchive.eu/test-panels-for-gravestone-plaques/', '_blank');"></div>
-        <div id="iconCyprus" onclick="window.open('https://europearchive.eu/film-super-8-in-an-envelope/', '_blank');"></div>
+        <div id="iconBulgaria" onclick="window.open('https://europearchive.eu/birth-and-death-photo-of-the-same-person/', '_blank');"></div>
+        <div id="iconCroatia" onclick="window.open('https://europearchive.eu/exploded-bombshell-used-as-a-flower-vase/', '_blank');"></div>
+        <div id="iconCyprus" onclick="window.open('https://europearchive.eu/super-8-film-of-people-eatings-lobster/', '_blank');"></div>
         <div id="iconCzech" onclick="window.open('https://europearchive.eu/lamp-made-out-of-a-deers-leg/', '_blank');"></div>
         <div id="iconDenmark" onclick="window.open('https://europearchive.eu/cross-over-between-a-hat-and-a-cap/', '_blank');"></div>
-        <div id="iconEstonia" onclick="window.open('https://europearchive.eu/2-taxidermy-frogs-holding-an-ashtray/', '_blank');"></div>
-        <div id="iconFinland" onclick="window.open('https://europearchive.eu/album-photo-of-2-girls-and-bananas/', '_blank');"></div>
-        <div id="iconFrance" onclick="window.open('https://europearchive.eu/shame-medal-for-13-0-loosing-at-petanque/', '_blank');"></div>
+        <div id="iconEstonia" onclick="window.open('https://europearchive.eu/two-taxidermy-frogs-holding-an-ashtray/', '_blank');"></div>
+        <div id="iconFinland" onclick="window.open('https://europearchive.eu/photo-album-of-two-girls-and-bananas/', '_blank');"></div>
+        <div id="iconFrance" onclick="window.open('https://europearchive.eu/shame-medal-for-loosing-at-petanque/', '_blank');"></div>
         <div id="iconGermany" onclick="window.open('https://europearchive.eu/wwii-german-bunker-ashtray/', '_blank');"></div>
         <div id="iconGreece" onclick="window.open('https://europearchive.eu/shell-sculpture-with-two-funny-creatures/', '_blank');"></div>
         <div id="iconHungary" onclick="window.open('https://europearchive.eu/metal-beware-the-dog-sign/', '_blank');"></div>
-        <div id="iconIreland" onclick="window.open('https://europearchive.eu/9-instruction-photos-for-wearing-diver-suit/', '_blank');"></div>
-        <div id="iconItaly" onclick="window.open('https://europearchive.eu/handmade-display-of-a-spoon-and-fork-salesman/', '_blank');"></div>
-        <div id="iconLatvia" onclick="window.open('https://europearchive.eu/8-erotic-diapositives-1-with-a-vagina-and-a-jewel/', '_blank');"></div>
+        <div id="iconIreland" onclick="window.open('https://europearchive.eu/nine-instruction-photos-for-wearing-diver-suit/', '_blank');"></div>
+        <div id="iconItaly" onclick="window.open('https://europearchive.eu/handmade-display-of-a-cutlery-salesman/', '_blank');"></div>
+        <div id="iconLatvia" onclick="window.open('https://europearchive.eu/eight-erotic-slides-with-a-vagina-and-a-jewel/', '_blank');"></div>
         <div id="iconLithuania" onclick="window.open('https://europearchive.eu/female-shoes-stuffed-with-newspapers/', '_blank');"></div>
-        <div id="iconLuxembourg" onclick="window.open('https://europearchive.eu/packshot-photography-archive-for-pomesul-osinex-tao-agriterra-medecine-from-pfzier-pharmaceutic-laboratory/', '_blank');"></div>
-        <div id="iconNetherlands" onclick="window.open('https://europearchive.eu/photos-of-woman-trying-to-jump-of-roof/', '_blank');"></div>
-        <div id="iconMalta" onclick="window.open('https://europearchive.eu/faience-plate-with-the-portrait-of-a-woman/', '_blank');"></div>
+        <div id="iconLuxembourg" onclick="window.open('https://europearchive.eu/pharmaceutic-packshot-photography-archive/', '_blank');"></div>
+        <div id="iconNetherlands" onclick="window.open('https://europearchive.eu/photos-of-a-woman-trying-to-jump-of-roof/', '_blank');"></div>
+        <div id="iconMalta" onclick="window.open('https://europearchive.eu/faience-plate-with-the-portrait-of-woman/', '_blank');"></div>
         <div id="iconPoland" onclick="window.open('https://europearchive.eu/folklore-dancers-on-vinyl-postcards/', '_blank');"></div>
-        <div id="iconPortugal" onclick="window.open('https://europearchive.eu/pocket-passport-photo-album-of-3-brothers/', '_blank');"></div>
-        <div id="iconRomania" onclick="window.open('https://europearchive.eu/hand-made-frame-made-out-of-thread/', '_blank');"></div>
+        <div id="iconPortugal" onclick="window.open('https://europearchive.eu/pocket-passport-album-of-three-brothers/', '_blank');"></div>
+        <div id="iconRomania" onclick="window.open('https://europearchive.eu/handmade-frame-made-out-of-thread/', '_blank');"></div>
         <div id="iconSlovakia" onclick="window.open('https://europearchive.eu/exploded-bombshell-used-as-a-flower-vase/', '_blank');"></div>
         <div id="iconSlovenia" onclick="window.open('https://europearchive.eu/amateur-painting-of-a-swiss-lake-with-a-couple-of-swans/', '_blank');"></div>
-        <div id="iconSpain" onclick="window.open('https://europearchive.eu/flamenco-dancers-holding-10-matchboxes/', '_blank');"></div>
-        <div id="iconSweden"onclick="window.open('https://europearchive.eu/3-wooden-blocks-for-educational-purposes/', '_blank');"></div>
+        <div id="iconSpain" onclick="window.open('https://europearchive.eu/flamenco-dancers-holding-ten-matchboxes/', '_blank');"></div>
+        <div id="iconSweden"onclick="window.open('https://europearchive.eu/three-wooden-blocks-for-educational-purposes/', '_blank');"></div>
         <!-- <div><img id="iconAustria" src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></div>
         <div><img id="iconBelgium" src="http://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531.jpg" alt=""></div>
         <div><img id="iconBulgaria" src="http://europearchive.eu/wp-content/uploads/2020/07/bulgaria.jpg" alt="" onclick="window.open('http://europearchive.eu/birth-and-death-photograph-of-the-same-person/', '_blank');"></div>

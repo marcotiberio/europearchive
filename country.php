@@ -21,7 +21,7 @@
                 europe_archive_posted_on();
                 europe_archive_posted_by();
                 ?>
-            </div><!-- .entry-meta -->
+            </div>
     <?php endif; ?>
 
     <div class="bottom" id="gridCountries">

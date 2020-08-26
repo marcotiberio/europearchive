@@ -17,7 +17,7 @@
         <div id="iconDenmark" onclick="window.open('https://europearchive.eu/cross-over-between-a-hat-and-a-cap/', '_blank');"></div>
         <div id="iconEstonia" onclick="window.open('https://europearchive.eu/two-taxidermy-frogs-holding-an-ashtray/', '_blank');"></div>
         <div id="iconFinland" onclick="window.open('https://europearchive.eu/photo-album-of-two-girls-and-bananas/', '_blank');"></div>
-        <div id="iconFrance" onclick="window.open('https://europearchive.eu/shame-medal-for-loosing-at-petanque/', '_blank');"></div>
+        <div id="iconFrance" onclick="window.open('https://europearchive.eu/country-index/france/', '_blank');"></div>
         <div id="iconGermany" onclick="window.open('https://europearchive.eu/wwii-german-bunker-ashtray/', '_blank');"></div>
         <div id="iconGreece" onclick="window.open('https://europearchive.eu/shell-sculpture-with-two-funny-creatures/', '_blank');"></div>
         <div id="iconHungary" onclick="window.open('https://europearchive.eu/metal-beware-the-dog-sign/', '_blank');"></div>

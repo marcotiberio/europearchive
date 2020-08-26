@@ -29,8 +29,9 @@
         <?php if( have_rows('icon_item') ): ?>
             <?php while( have_rows('icon_item') ): the_row(); 
                 $image = get_sub_field('background_image');
+                $link = get_sub_field('link');
                 ?>
-                <div id="iconItem" style="background-image: url(<?php the_sub_field('background_image'); ?>);"></div>
+                <a href="<?php echo esc_url( $link ); ?>"><div id="iconItem" style="background-image: url(<?php the_sub_field('background_image'); ?>);"></div></a>
             <?php endwhile; ?>
         <?php endif; ?>
     </div>

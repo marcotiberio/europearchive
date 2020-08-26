@@ -8,7 +8,7 @@
 
  <section class="index-countries">
     <div class="bottom" id="gridCountries">
-        <div id="iconTest" style="background_image: url(<?php the_field('background_image'); ?>);" onclick="window.open('https://europearchive.eu/portfolio-of-a-teacher-with-student-letters/', '_blank');"></div>
+        <div id="iconTest" style="background-image: url(<?php the_field('background_image'); ?>);" onclick="window.open('https://europearchive.eu/portfolio-of-a-teacher-with-student-letters/', '_blank');"></div>
         <div id="iconBelgium" onclick="window.open('https://europearchive.eu/pan-sculpture-looking-like-a-house/', '_blank');"></div>
         <div id="iconBulgaria" onclick="window.open('https://europearchive.eu/birth-and-death-photo-of-the-same-person/', '_blank');"></div>
         <div id="iconCroatia" onclick="window.open('https://europearchive.eu/exploded-bombshell-used-as-a-flower-vase/', '_blank');"></div>

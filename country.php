@@ -13,7 +13,7 @@
             <?php while( have_rows('icon_item') ): the_row(); 
                 $image = get_sub_field('background_image');
                 ?>
-                <div id="iconItem" style="background-image: 'url(<?php the_field('background_image'); ?>)';"></div>
+                <div id="iconItem" style="background-image: 'url(<?php the_sub_field('background_image'); ?>)';"></div>
             <?php endwhile; ?>
         <?php endif; ?>
     </div>

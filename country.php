@@ -13,7 +13,7 @@
             <?php while( have_rows('icon_item') ): the_row(); 
                 $image = get_sub_field('background_image');
                 ?>
-                <div id="iconItem" style="background-image: 'url(<?php the_field('background_image'); ?>)';" onclick="window.open('https://europearchive.eu/portfolio-of-a-teacher-with-student-letters/', '_blank');"></div>
+                <div id="iconItem" style="background-image: 'url(<?php echo wp_get_attachment_image( $image, 'full' ); ?>)';" onclick="window.open('https://europearchive.eu/portfolio-of-a-teacher-with-student-letters/', '_blank');"></div>
             <?php endwhile; ?>
         <?php endif; ?>
     </div>

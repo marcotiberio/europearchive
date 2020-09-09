@@ -52,15 +52,11 @@
             </div>
         </div>
     </div>
-    <div class="right">
-        <div class="img-container">
-        <?php 
-            $image = get_field('item_cover_image');
-            if( !empty( $image ) ): ?>
-                <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
-        <?php endif; ?>
-        </div>
-    </div>
+    <?php 
+        $image = get_field('item_cover_image');
+        if( !empty( $image ) ): ?>
+            <div class="right" style="background-image:url('<?php echo esc_url($image['url']); ?>');"></div>
+    <?php endif; ?>
  </section>
 
  <div class="mobile">

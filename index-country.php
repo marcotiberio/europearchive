@@ -8,7 +8,7 @@
 
  <section class="index-countries">
     <div class="bottom" id="gridCountries">
-        <div id="iconAustria" onclick="window.open('https://europearchive.eu/country-index/austria/', '_blank');"></div>
+        <div id="iconAustria" onclick="window.location.href='https://europearchive.eu/country-index/austria/'"></div>
         <div id="iconBelgium" onclick="window.open('https://europearchive.eu/country-index/belgium/', '_blank');"></div>
         <div id="iconBulgaria" onclick="window.open('https://europearchive.eu/country-index/bulgaria/', '_blank');"></div>
         <div id="iconCroatia" onclick="window.open('https://europearchive.eu/country-index/croatia/', '_blank');"></div>

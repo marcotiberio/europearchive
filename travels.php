@@ -57,8 +57,8 @@
         <?php 
             $image = get_field('item_cover_image');
             if( !empty( $image ) ): ?>
-                <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
-        <?php endif; ?>
+                <div class="right" style="background-image:url('<?php echo esc_url($image['url']); ?>');"></div>
+        <?php endif; ?> 
         </div>
     </div>
  </section>

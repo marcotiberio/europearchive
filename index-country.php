@@ -9,32 +9,32 @@
  <section class="index-countries">
     <div class="bottom" id="gridCountries">
         <div id="iconAustria" onclick="window.location.href='https://europearchive.eu/country-index/austria/'"></div>
-        <div id="iconBelgium" onclick="window.open('https://europearchive.eu/country-index/belgium/', '_blank');"></div>
-        <div id="iconBulgaria" onclick="window.open('https://europearchive.eu/country-index/bulgaria/', '_blank');"></div>
-        <div id="iconCroatia" onclick="window.open('https://europearchive.eu/country-index/croatia/', '_blank');"></div>
-        <div id="iconCyprus" onclick="window.open('https://europearchive.eu/country-index/cyprus/', '_blank');"></div>
-        <div id="iconCzech" onclick="window.open('https://europearchive.eu/country-index/czechia/', '_blank');"></div>
-        <div id="iconDenmark" onclick="window.open('https://europearchive.eu/country-index/denmark/', '_blank');"></div>
-        <div id="iconEstonia" onclick="window.open('https://europearchive.eu/country-index/estonia/', '_blank');"></div>
-        <div id="iconFinland" onclick="window.open('https://europearchive.eu/country-index/finland/', '_blank');"></div>
-        <div id="iconFrance" onclick="window.open('https://europearchive.eu/country-index/france/');"></div>
-        <div id="iconGermany" onclick="window.open('https://europearchive.eu/country-index/germany/', '_blank');"></div>
-        <div id="iconGreece" onclick="window.open('https://europearchive.eu/country-index/greece/', '_blank');"></div>
-        <div id="iconHungary" onclick="window.open('https://europearchive.eu/country-index/hungary/', '_blank');"></div>
-        <div id="iconIreland" onclick="window.open('https://europearchive.eu/country-index/ireland/', '_blank');"></div>
-        <div id="iconItaly" onclick="window.open('https://europearchive.eu/country-index/italy/', '_blank');"></div>
-        <div id="iconLatvia" onclick="window.open('https://europearchive.eu/country-index/latvia/', '_blank');"></div>
-        <div id="iconLithuania" onclick="window.open('https://europearchive.eu/country-index/lithuania/', '_blank');"></div>
-        <div id="iconLuxembourg" onclick="window.open('https://europearchive.eu/country-index/luxembourg/', '_blank');"></div>
-        <div id="iconNetherlands" onclick="window.open('https://europearchive.eu/country-index/netherlands/', '_blank');"></div>
-        <div id="iconMalta" onclick="window.open('https://europearchive.eu/country-index/malta/', '_blank');"></div>
-        <div id="iconPoland" onclick="window.open('https://europearchive.eu/country-index/poland/', '_blank');"></div>
-        <div id="iconPortugal" onclick="window.open('https://europearchive.eu/country-index/portugal/', '_blank');"></div>
-        <div id="iconRomania" onclick="window.open('https://europearchive.eu/country-index/romania/', '_blank');"></div>
-        <div id="iconSlovakia" onclick="window.open('https://europearchive.eu/country-index/slovakia/', '_blank');"></div>
-        <div id="iconSlovenia" onclick="window.open('https://europearchive.eu/country-index/slovenia/', '_blank');"></div>
-        <div id="iconSpain" onclick="window.open('https://europearchive.eu/country-index/spain/', '_blank');"></div>
-        <div id="iconSweden"onclick="window.open('https://europearchive.eu/country-index/sweden/', '_blank');"></div>
+        <div id="iconBelgium" onclick="window.location.href='https://europearchive.eu/country-index/belgium/'"></div>
+        <div id="iconBulgaria" onclick="window.location.href='https://europearchive.eu/country-index/bulgaria/'"></div>
+        <div id="iconCroatia" onclick="window.location.href='https://europearchive.eu/country-index/croatia/'"></div>
+        <div id="iconCyprus" onclick="window.location.href='https://europearchive.eu/country-index/cyprus/'"></div>
+        <div id="iconCzech" onclick="window.location.href='https://europearchive.eu/country-index/czechia/'"></div>
+        <div id="iconDenmark" onclick="window.location.href='https://europearchive.eu/country-index/denmark/'"></div>
+        <div id="iconEstonia" onclick="window.location.href='https://europearchive.eu/country-index/estonia/'"></div>
+        <div id="iconFinland" onclick="window.location.href='https://europearchive.eu/country-index/finland/'"></div>
+        <div id="iconFrance" onclick="window.location.href='https://europearchive.eu/country-index/france/'"></div>
+        <div id="iconGermany" onclick="window.location.href='https://europearchive.eu/country-index/germany/'"></div>
+        <div id="iconGreece" onclick="window.location.href='https://europearchive.eu/country-index/greece/'"></div>
+        <div id="iconHungary" onclick="window.location.href='https://europearchive.eu/country-index/hungary/'"></div>
+        <div id="iconIreland" onclick="window.location.href='https://europearchive.eu/country-index/ireland/'"></div>
+        <div id="iconItaly" onclick="window.location.href='https://europearchive.eu/country-index/italy/'"></div>
+        <div id="iconLatvia" onclick="window.location.href='https://europearchive.eu/country-index/latvia/'"></div>
+        <div id="iconLithuania" onclick="window.location.href='https://europearchive.eu/country-index/lithuania/'"></div>
+        <div id="iconLuxembourg" onclick="window.location.href='https://europearchive.eu/country-index/luxembourg/'"></div>
+        <div id="iconNetherlands" onclick="window.location.href='https://europearchive.eu/country-index/netherlands/'"></div>
+        <div id="iconMalta" onclick="window.location.href='https://europearchive.eu/country-index/malta/'"></div>
+        <div id="iconPoland" onclick="window.location.href='https://europearchive.eu/country-index/poland/'"></div>
+        <div id="iconPortugal" onclick="window.location.href='https://europearchive.eu/country-index/portugal/'"></div>
+        <div id="iconRomania" onclick="window.location.href='https://europearchive.eu/country-index/romania/'"></div>
+        <div id="iconSlovakia" onclick="window.location.href='https://europearchive.eu/country-index/slovakia/'"></div>
+        <div id="iconSlovenia" onclick="window.location.href='https://europearchive.eu/country-index/slovenia/'"></div>
+        <div id="iconSpain" onclick="window.location.href='https://europearchive.eu/country-index/spain/'"></div>
+        <div id="iconSweden" onclick="window.location.href='https://europearchive.eu/country-index/sweden/'"></div>
         <!-- <div><img id="iconAustria" src="http://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg" alt=""></div>
         <div><img id="iconBelgium" src="http://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531.jpg" alt=""></div>
         <div><img id="iconBulgaria" src="http://europearchive.eu/wp-content/uploads/2020/07/bulgaria.jpg" alt="" onclick="window.open('http://europearchive.eu/birth-and-death-photograph-of-the-same-person/', '_blank');"></div>

@@ -151,6 +151,8 @@ function europe_archive_scripts() {
 
 	wp_enqueue_script( 'europe-archive-navigation', get_template_directory_uri() . '/js/navigation.js', array(), _S_VERSION, true );
 
+	wp_enqueue_script( 'europe-archive-zoom', get_template_directory_uri() . '/js/zoom.js', array(), _S_VERSION, true );
+
 	wp_enqueue_script('europe-archive-script', get_template_directory_uri() . '/js/script.js', array( 'jquery' ), _S_VERSION, true );
 
 

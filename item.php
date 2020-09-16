@@ -153,7 +153,7 @@
 <script>
 
 // ZOOM
-		document.querySelector( '.fullscreen-item' ).addEventListener( 'click', function( event ) {
+		document.querySelector( '.modal-content' ).addEventListener( 'click', function( event ) {
 			event.preventDefault();
 			zoom.to({
         element: event.target,

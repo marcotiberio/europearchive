@@ -114,7 +114,7 @@
         <div class="modal-content">
             <span class="close">&times;</span>
             <div class="fullscreen-item">
-                <img src="https://europearchive.eu/wp-content/uploads/2020/09/P7102179_web.jpg" alt="">
+                <img id="fullscreenImage" src="https://europearchive.eu/wp-content/uploads/2020/09/P7102179_web.jpg" alt="">
             </div>
         </div>
 
@@ -151,14 +151,8 @@
 </script>
 
 <script>
-
-// ZOOM
-		document.querySelector( '.modal-content' ).addEventListener( 'click', function( event ) {
-			event.preventDefault();
-			zoom.to({
-        element: event.target,
-        padding: 40
-      });
-		} );
-
-  </script>
+			document.querySelector( '.modal-content' ).addEventListener( 'click', function( event ) {
+				event.preventDefault();
+				zoom.to({ element: event.target });
+			} );
+		</script>

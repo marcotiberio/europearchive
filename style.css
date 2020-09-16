@@ -60,20 +60,274 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 
-@font-face {font-family: "Berthold Akzidenz Grotesk BE"; 
-	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot"); 
-	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot?#iefix") format("embedded-opentype"), 
-	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff2") format("woff2"), 
-	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff") format("woff"), 
-	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.ttf") format("truetype"), 
-	url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.svg#Berthold Akzidenz Grotesk BE") format("svg"); }
+@font-face {
+	font-family: "Berthold Akzidenz Grotesk BE";
+	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot");
+	src: url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.eot?#iefix") format("embedded-opentype"),
+		url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff2") format("woff2"),
+		url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.woff") format("woff"),
+		url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.ttf") format("truetype"),
+		url("//db.onlinewebfonts.com/t/6fd7b3b855c698926b1fb22a720505ed.svg#Berthold Akzidenz Grotesk BE") format("svg");
+}
 
-@font-face {font-family: "Akkurat-Light"; src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot"); 
-	src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot?#iefix") format("embedded-opentype"), 
-	url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff2") format("woff2"), 
-	url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff") format("woff"), 
-	url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.ttf") format("truetype"), 
-	url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.svg#Akkurat-Light") format("svg"); }
+@font-face {
+	font-family: "Akkurat-Light";
+	src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot");
+	src: url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.eot?#iefix") format("embedded-opentype"),
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff2") format("woff2"),
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.woff") format("woff"),
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.ttf") format("truetype"),
+		url("//db.onlinewebfonts.com/t/bc9fa02b4227255be2387a7e19a3e09b.svg#Akkurat-Light") format("svg");
+}
+
+@font-face {
+	font-family: "Grotesque MT Std";
+	src: url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.eot");
+	src: url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.woff") format("woff"), url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/8ddf9563905c05eec4e8bfb1dfa598cf.svg#Grotesque MT Std") format("svg");
+}
+
+#iconAustria {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/austria-silhouette-map-vector-27520355.jpg');
+}
+
+#iconAustria:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconBelgium {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/belgium-map-silhouette-vector-14558531-e1595001795751.jpg');
+}
+
+#iconBelgium:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconBulgaria {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/bulgaria.jpg');
+}
+
+#iconBulgaria:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconCroatia {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/croatia-map-silhouette-isolated-vector-28801394-e1595001803242.jpg');
+}
+
+#iconCroatia:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconCyprus {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/cyprus-vector-13690-e1595001811779.jpg');
+}
+
+#iconCyprus:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconCzech {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/czech-republic-silhouette-map-vector-27520357-e1595001731838.jpg');
+}
+
+#iconCzech:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconDenmark {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/denmark-solid-black-silhouette-map-of-country-vector-21714778-e1595001761831.jpg');
+}
+
+#iconDenmark:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconEstonia {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/estonia-silhouette-map-vector-28115175-e1595001766985.jpg');
+}
+
+#iconEstonia:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconFinland {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/finland-solid-black-silhouette-map-of-country-vector-21714780-e1595001770505.jpg');
+}
+
+#iconFinland:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconFrance {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/france.jpg');
+}
+
+#iconFrance:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconGermany {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/germany-silhouette-map-vector-27494653-e1595001777141.jpg');
+}
+
+#iconGermany:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconGreece {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/greece-solid-black-silhouette-map-of-country-vector-21665532-e1595001783805.jpg');
+}
+
+#iconGreece:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconHungary {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/hungary.jpg');
+}
+
+#iconHungary:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconIreland {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/ireland.jpg');
+}
+
+#iconIreland:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconItaly {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/italy-silhouette-map-vector-27482741-e1595001756803.jpg');
+}
+
+#iconItaly:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconLatvia {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/latvia-silhouette-map-vector-28101934-e1595001752582.jpg');
+}
+
+#iconLatvia:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconLithuania {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/lithuania-silhouette-map-vector-28101935-e1595001747547.jpg');
+}
+
+#iconLithuania:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconLuxembourg {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/luxembourg-silhouette-map-vector-27520359-e1595001743107.jpg');
+}
+
+#iconLuxembourg:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconNetherlands {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/netherlands-holland-solid-black-silhouette-map-vector-21773731-e1595001665999.jpg');
+}
+
+#iconNetherlands:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconMalta {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/malta-map-silhouette-isolated-on-white-vector-28790549-e1595001739935.jpg');
+}
+
+#iconMalta:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconPoland {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/poland-silhouette-map-vector-27594581-e1595001706372.jpg');
+}
+
+#iconPoland:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconPortugal {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/portugal-solid-black-silhouette-map-of-country-vector-21714879-e1595001719103.jpg');
+}
+
+#iconPortugal:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconRomania {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/romania-silhouette-map-vector-27674836-e1595001673464.jpg');
+}
+
+#iconRomania:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconSlovakia {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/slovakia-silhouette-map-vector-27803739-e1595001701580.jpg');
+}
+
+#iconSlovakia:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconSlovenia {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/black-silhouette-country-borders-map-of-slovenia-vector-19256111-e1595001798728.jpg');
+}
+
+#iconSlovenia:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconSpain {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/spain-silhouette-map-vector-26961823-e1595001712199.jpg');
+}
+
+#iconSpain:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#iconSweden {
+	background-image: url('https://europearchive.eu/wp-content/uploads/2020/07/sweden-silhouette-map-vector-28202560-e1595001680364.jpg');
+}
+
+#iconSweden:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
 
 
 /* Document
@@ -512,8 +766,8 @@ ol {
 	list-style: decimal;
 }
 
-li > ul,
-li > ol {
+li>ul,
+li>ol {
 	margin-bottom: 0;
 	margin-left: 1.5em;
 }
@@ -691,8 +945,8 @@ textarea {
 	top: 0;
 }
 
-.main-navigation ul ul li:hover > ul,
-.main-navigation ul ul li.focus > ul {
+.main-navigation ul ul li:hover>ul,
+.main-navigation ul ul li.focus>ul {
 	display: block;
 	left: auto;
 }
@@ -701,8 +955,8 @@ textarea {
 	width: 200px;
 }
 
-.main-navigation ul li:hover > ul,
-.main-navigation ul li.focus > ul {
+.main-navigation ul li:hover>ul,
+.main-navigation ul li.focus>ul {
 	left: auto;
 }
 
@@ -733,10 +987,8 @@ textarea {
 }
 
 .site-main .comment-navigation,
-.site-main
-.posts-navigation,
-.site-main
-.post-navigation {
+.site-main .posts-navigation,
+.site-main .post-navigation {
 	margin: 0 0 1.5em;
 }
 
@@ -1005,8 +1257,94 @@ body {
 	height: auto;
 	padding: 0;
 	margin: 0;
-	font-family: 'Roboto Condensed', sans-serif;
 }
+
+/* GLOBAL */
+/* GLOBAL */
+/* GLOBAL */
+
+#logoTitle {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 12vw;
+}
+
+#logoHome:hover,
+#logoTitle:hover {
+	cursor: pointer;
+}
+
+.page-template-index-country .site-header,
+.post-template .site-header {
+	position: fixed;
+	top: 10vh;
+	left: 3vw;
+}
+
+.home .site-branding {
+	display: none;
+}
+
+.home #site-navigation {
+	display: none;
+}
+
+.menu-primary-menu-container {
+	margin-top: 2vh;
+	text-transform: uppercase;
+}
+
+.menu.nav-menu {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: repeat(3, 1fr);
+	row-gap: 5px;
+	font-size: 2rem;
+	line-height: 1.5rem
+}
+
+.menu-item:hover {
+	cursor: pointer;
+	opacity: 0.6;
+}
+
+.postid-1103 .right .img-container {
+	width: 60%;
+	height: auto;
+	margin-left: 20%;
+	padding: 0%;
+	position: relative;
+}
+
+.postid-1580 .right .img-container,
+.postid-1588 .right .img-container,
+.postid-1573 .right .img-container {
+	width: 90%;
+}
+
+.postid-1557 .right .img-container,
+.postid-1624 .right .img-container {
+	width: 95%;
+}
+
+.postid-1597 .right .img-container,
+.postid-1680 .right .img-container {
+	width: 80%;
+}
+
+.postid-1641 .right .img-container,
+.postid-1654 .right .img-container {
+	width: 85%;
+}
+
+.postid-1654 .right .img-container {
+	margin-top: -5vh;
+}
+
+/* HOME */
+/* HOME */
+/* HOME */
 
 .home {
 	width: 100vw;
@@ -1014,25 +1352,40 @@ body {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.home .site-header {
+	display: block;
 }
 
 .home .container {
-	width: 100%;
+	width: 70vw;
 	height: 100%;
 	padding: 0;
-	margin: 4%;
+	margin: 6% 3% 0 3%;
 	color: black;
 }
 
+.home #logoHome {
+	position: absolute;
+	height: 53vh;
+}
+
 .home h1 {
-	width: 100%;
+	width: 100vw;
 	height: auto;
-	font-size: 17rem;
+	font-size: 15rem;
 	margin: 0;
 	padding: 0;
-	line-height: 14rem;
+	line-height: 12.5rem;
+	-webkit-text-stroke: 7px black;
 	text-transform: uppercase;
 	font-weight: 800;
+}
+
+.home h1:hover {
+	cursor: pointer;
 }
 
 .home h2 {
@@ -1045,38 +1398,1005 @@ body {
 	font-weight: 800;
 }
 
-@media (max-width: 979px) {
-	
+.box-bottom {
+	position: absolute;
+	top: 62.5vh;
+	border-top: 3px solid black;
+	width: 90vw;
+	padding: 0;
+	margin: 4% 3%;
+}
+
+
+/* INDEX COUNTRY */
+/* INDEX COUNTRY */
+/* INDEX COUNTRY */
+
+
+.page-template-index-country {
+	width: 100vw;
+	height: auto;
+	overflow: auto;
+}
+
+.page-template-index-country .site-header {
+	position: fixed;
+	top: 0;
+	left: 3vw;
+	border-bottom: 3px solid black;
+	width: calc(100vw - 6vw);
+	margin: 0;
+	background-color: white;
+	height: 22vh;
+	z-index: 10;
+}
+
+.page-template-index-country .site-branding {
+	position: fixed;
+	top: 10vh;
+}
+
+.page-template-index-country .site-header h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.page-template-index-country .main-navigation {
+	display: none;
+}
+
+.page-template-index-country section {
+	width: 100vw;
+	height: auto;
+	padding: 26vh 3vw;
+	margin: 0;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
+	column-gap: 20px;
+}
+
+.index-countries .top {
+	background-color: #ffffff;
+	padding-bottom: 5vh;
+	border-bottom: 3px solid black;
+}
+
+.index-countries .top h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+#gridCountries {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	background: white;
+	width: 100%;
+	column-gap: 1rem;
+	row-gap: 1rem;
+	z-index: 1;
+}
+
+#gridCountries div {
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%;
+	/* = width for a 1:1 aspect ratio */
+	margin: 0%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* you change this to "contain" if you don't want the images to be cropped */
+	border: 3px solid black;
+}
+
+/* .index-countries .bottom {
+	display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  grid-gap: 1rem;
+}
+
+.index-countries .bottom > div {
+  background: white;
+	border: 3px solid black;
+  padding: 0.5vw;
+	display: grid;
+}
+
+.index-countries .bottom > div::before {
+  content: "";
+  padding-bottom: 100%;
+  display: block;
+}
+
+.index-countries .bottom > div:before,
+.index-countries .bottom > div > img {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.index-countries .bottom > div > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+} */
+
+/*.index-countries .bottom > div {
+ width: 23vh;
+	height: 23vh;
+  margin: 0.5vw;
+  text-align: center;
+	border: 3px solid black;
+}*/
+
+/* COUNTRY PAGE */
+/* COUNTRY PAGE */
+/* COUNTRY PAGE */
+
+.page-template-country {
+	width: 100vw;
+	height: auto;
+	overflow: auto;
+}
+
+.page-template-country .site-header {
+	position: fixed;
+	top: 0;
+	left: 3vw;
+	border-bottom: 3px solid black;
+	width: calc(100vw - 6vw);
+	margin: 0;
+	background-color: white;
+	height: 22vh;
+	z-index: 10;
+}
+
+.page-template-country .site-branding {
+	position: fixed;
+	top: 10vh;
+}
+
+.page-template-country .site-header h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.page-template-country .main-navigation {
+	display: none;
+}
+
+.page-template-country .entry-title {
+	margin-top: 1%;
+	margin-bottom: 2%;
+	padding: 0;
+	font-family: "Berthold Akzidenz Grotesk BE";
+	/*font-size: 1.5em;*/
+	line-height: 1.3rem;
+	text-transform: uppercase;
+}
+
+.page-template-country section {
+	width: 100vw;
+	height: auto;
+	padding: 24vh 3vw;
+	margin: 0;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
+	column-gap: 20px;
+}
+
+.index-countries .top {
+	background-color: #ffffff;
+	padding-bottom: 5vh;
+	border-bottom: 3px solid black;
+}
+
+.index-countries .top h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+#gridCountries {
+	display: grid;
+	grid-template-columns: repeat(7, 1fr);
+	background: white;
+	width: 100%;
+	column-gap: 1rem;
+	row-gap: 1rem;
+	z-index: 1;
+}
+
+#gridCountries div {
+	position: relative;
+	width: 100%;
+	padding-bottom: 100%;
+	/* = width for a 1:1 aspect ratio */
+	margin: 0%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/* you change this to "contain" if you don't want the images to be cropped */
+	border: 3px solid black;
+}
+
+/* POST TEST */
+
+.post-template-item .right #cover {
+	margin: 0;
+	position: relative;
+	padding: 0 5%;
+}
+
+.postid-1580 .right #cover,
+.postid-1103 .right #cover,
+.postid-1818 .right #cover {
+	margin: 0;
+	position: relative;
+	padding: 0 5%;
+}
+
+/*.postid-1814 .right #cover {
+margin: 0;
+position: relative;
+padding: 0 20%;
+}
+
+.postid-2320 .right #cover {
+margin: 0;
+position: relative;
+padding: 0 15%;
+}*/
+
+/* POST TEST */
+
+/* POST ITEM */
+/* POST ITEM */
+/* POST ITEM */
+
+.post-template {
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.post-template .site-header h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+	/*color: transparent;*/
+	display: block;
+}
+
+.post-template .main-navigation {
+	display: none;
+}
+
+.post-template .mobile {
+	display: none;
+}
+
+
+.separator {
+	position: absolute;
+	top: 180px;
+	left: 4vw;
+}
+
+
+.post-template section {
+	width: 100vw;
+	height: 100vh;
+	padding: 21vh 3vw 6vh 3vw;
+	margin: 0;
+	display: grid;
+	grid-template-columns: 1.5fr 2fr;
+	grid-template-rows: 1fr;
+	column-gap: 20px;
+}
+
+.post-template section h1 {
+	font-size: 3rem;
+	margin: 0;
+	padding: 0;
+	line-height: 2.5rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.post-template section h1:hover {
+	cursor: pointer;
+}
+
+.item-title {
+	margin-top: 10px;
+	margin-right: 6vw;
+	padding: 0;
+	line-height: 2rem;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-family: "Berthold Akzidenz Grotesk BE";
+	border-top: 2px solid black;
+}
+
+#targetDesktop {
+	position: absolute;
+	left: 40vw;
+	margin-top: -5px;
+}
+
+.item-title h2 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+	font-family: "Berthold Akzidenz Grotesk BE";
+	line-height: 1.3rem;
+}
+
+.item-location {
+	margin-top: -5px;
+	text-transform: none;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.item-location .country {
+	margin: 0;
+	padding: 0;
+	font-family: "Berthold Akzidenz Grotesk BE";
+}
+
+.item-location .code {
+	margin-left: 10px;
+	padding: 0;
+	font-weight: 300 !important;
+	font-family: "Grotesque MT Std";
+	text-transform: uppercase;
+}
+
+.item-description {
+	width: 100%;
+}
+
+.item-description img {
+	width: 50px;
+	border: 3px solid #000000;
+	float: left;
+	margin: 3px 12px 3px 0px;
+}
+
+.item-description {
+	font-size: 1.2rem;
+	margin: 0;
+	font-family: "Akkurat-Light";
+	clear: both;
+	padding-right: 10%;
+}
+
+.item-description p {
+	margin-top: 0;
+}
+
+.right {
+	padding: 0;
+	margin: 0;
+	position: relative;
+}
+
+.right .img-container {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.right #cover {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -8%);
+	background-color: white;
+}
+
+.post-template-item-multiple .right #cover:hover {
+	display: none;
+}
+
+/* Modal */
+
+	/* The Modal (background) */
+	.modal {
+		display: none;
+		/* Hidden by default */
+		position: fixed;
+		/* Stay in place */
+		z-index: 3000;
+		/* Sit on top */
+		padding: 0; margin: 0;
+		/* Location of the box */
+		left: 0;
+		top: 0;
+		width: 100vw;
+		/* Full width */
+		height: 100vh;
+		/* Full height */
+		overflow: auto;
+		/* Enable scroll if needed */
+		background-color: #ffffff;
+		/* Fallback color */
+		background-color: #ffffff;
+	}
+
+	/* Modal Content */
+	.modal-content {
+		background-color: #ffffff;
+		margin: auto;
+		padding: 0;
+		width: auto;
+		height: 100vh;
+	}
+
+	/* The Close Button */
+	.close {
+		position: absolute;
+		color: #000000;
+		font-size: 3rem;
+		font-weight: normal;
+		top: 2%;
+		right: 2%;
+	}
+
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+.fullscreen-item {
+	display: grid;
+  place-items: center;	
+}
+
+.fullscreen-item img {
+	height: 100vh !important;
+}
+
+/* Modal */
+
+/* TRAVELS */
+/* TRAVELS */
+/* TRAVELS */
+
+.travel-country {
+	font-size: 1.2rem;
+	margin: 0;
+	padding: 0;
+}
+
+.travel-date {
+	font-size: 1.2rem;
+	line-height: 1rem;
+	margin: 0;
+	padding: 0;
+}
+
+.post-template-travels .right #cover {
+	margin: 0;
+	position: relative;
+	top: 0;
+	left: 0;
+	transform: none;
+	max-height: 95%;
+	max-width: 95%;
+}
+
+/* STORY */
+/* STORY */
+/* STORY */
+
+.post-template-story {
+	overflow: auto;
+}
+
+.post-template-story section .left {
+	overflow: hidden;
+}
+
+.post-template-story section .right {
+	overflow: auto;
+}
+
+.post-template-story .item-description img {
+	width: 100%;
+	border: none;
+	float: left;
+	margin-bottom: 1.5rem;
+	padding: 0;
+}
+
+#headerSubtitle {
+	display: none;
+}
+
+.post-template-story #headerSubtitle {
+	display: none;
+}
+
+.post-template-story .item-description {
+	padding-right: 6vw;
+}
+
+@media (max-width: 35rem) {
+
+	.post-template-story .site-header {
+		position: fixed;
+		top: 0;
+		left: 3vw;
+		width: calc(100vw - 6vw);
+		margin: 0;
+		background-color: white;
+		height: 15vh !important;
+		z-index: 10;
+	}
+
+	.post-template-story #headerSubtitle {
+		display: block;
+		margin-top: 10vh;
+		border-top: 2px solid black;
+		text-transform: uppercase;
+		font-family: "Berthold Akzidenz Grotesk BE";
+		letter-spacing: -0.1rem;
+	}
+
+	.post-template-story .mobile .top {
+		padding: 10% 3% 0% 3%;
+		margin: 0;
+	}
+
+	.post-template-story .mobile .bottom {
+		padding: 2% 3%;
+		margin: 0;
+	}
+
+	.post-template-story .item-title h2 {
+		font-size: 2.5rem;
+		line-height: 2rem;
+		letter-spacing: 0;
+	}
+
+	.post-template-story .item-description {
+		padding-right: 0;
+	}
+
+	.postid-1103 .mobile .top .img-container #cover {
+		max-width: 70%;
+		margin-left: 15%;
+	}
+
+	.postid-1043 .mobile .top .img-container #cover {
+		max-width: 130%;
+		margin-left: -15%;
+	}
+
+	.main-navigation,
+	.site-header {
+		display: block;
+	}
+
+	.menu-toggle {
+		display: none;
+	}
+
+	.menu-primary-menu-container {
+		/*position: absolute;*/
+		margin-top: 2vh;
+		/*left: 2%;*/
+		text-transform: uppercase;
+	}
+
+	.menu.nav-menu {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: repeat(3, 1fr);
+		row-gap: 2px;
+		font-size: 2rem;
+		line-height: 1.5rem
+	}
+
+	.home #logoHome {
+		position: absolute;
+		width: 95vw;
+		height: auto;
+		top: 25vh;
+	}
+
+	#logoTitle {
+		position: relative;
+		top: 0;
+		left: 0;
+		width: 28vw;
+	}
+
 	.home {
 		width: 100vw;
 		height: 100vh;
 		overflow: hidden;
 	}
-	
+
+	.home .site-header {
+		display: block;
+	}
+
 	.home .container {
-		width: 100%;
-		height: 100%;
-		padding: 40% 2%;
+		width: 100vw;
+		height: 100vh;
+		padding: 0 2%;
 		margin: 0;
 		color: black;
 		overflow: hidden;
 	}
-	
+
 	.home h1 {
-		font-size: 4rem;
+		font-size: 6.1rem;
 		margin: 0;
 		padding: 0;
-		line-height: 3.5rem;
+		line-height: 5rem;
 		text-transform: uppercase;
 		font-weight: 800;
+		-webkit-text-stroke: 2px black;
+		letter-spacing: -4px;
 	}
-	
+
 	.home h2 {
 		margin: 0;
 		padding: 0;
-		font-size: 1rem;
+		font-size: 1.4rem;
 		text-transform: uppercase;
 		font-weight: 800;
+		letter-spacing: -2px;
 	}
-	
+
+	.box-bottom {
+		border-top: 3px solid black;
+		width: 95vw;
+		padding: 0;
+		margin: 0 1% 0 2%;
+		position: absolute;
+		top: 55vh;
+	}
+
+	.post-template .site-header {
+		position: fixed;
+		top: 0;
+		left: 3vw;
+		width: calc(100vw - 6vw);
+		margin: 0;
+		background-color: white;
+		height: 12vh;
+		z-index: 10;
+	}
+
+	.post-template .site-branding {
+		position: fixed;
+		top: 3vh;
+	}
+
+	.post-template .site-header h1 {
+		font-size: 2rem;
+		margin: 0;
+		line-height: 1.5rem;
+		-webkit-text-stroke: 0 black;
+		font-family: "Berthold Akzidenz Grotesk BE";
+		text-transform: uppercase;
+		font-weight: 800;
+		letter-spacing: -2px;
+	}
+
+	.post-template section {
+		display: none;
+	}
+
+	.post-template {
+		width: 100vw;
+		height: 100vh;
+		overflow: auto;
+	}
+
+	.post-template .mobile {
+		display: block;
+		position: absolute;
+		top: 100px;
+		left: 0;
+		width: 100vw;
+		height: auto;
+		padding: 0;
+		margin: 0;
+		/* display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 11fr fr;
+		row-gap: 0; */
+	}
+
+	.mobile .top {
+		width: 100vw;
+		height: auto;
+		padding: 2%;
+		margin: 0;
+		display: grid;
+		grid-template-columns: 1fr;
+		row-gap: 5vh;
+	}
+
+	.img-container {
+		padding-bottom: 0;
+	}
+
+	#target {
+		position: absolute;
+		right: 5%;
+		z-index: 5;
+		width: 40px;
+	}
+
+	#separatorMobile {
+		margin-top: 50px;
+	}
+
+	.mobile .bottom {
+		padding: 0;
+		margin: 0 3vw;
+		margin-bottom: 10vh;
+		/*border-top: 2px solid black;*/
+	}
+
+	.item-title {
+		border: none;
+	}
+
+	.item-title h2 {
+		font-size: 2rem;
+		line-height: 1.7rem;
+		letter-spacing: -2px;
+	}
+
+	.item-location .country {
+		font-size: 1.2rem;
+		line-height: 2rem;
+		letter-spacing: -0.5px;
+	}
+
+	.item-description {
+		padding-right: 0;
+	}
+
+	.page-template-index-country .site-header,
+	.page-template-country .site-header {
+		position: fixed;
+		top: 0;
+		left: 3vw;
+		border-bottom: 3px solid black;
+		width: calc(100vw - 6vw);
+		margin: 0;
+		background-color: white;
+		height: 12vh;
+	}
+
+	.page-template-index-country .site-branding,
+	.page-template-country .site-branding {
+		position: fixed;
+		top: 3vh;
+	}
+
+	.page-template-index-country section {
+		width: 100vw;
+		height: auto;
+		padding: 16vh 3vw;
+		margin: 0;
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: auto;
+		column-gap: 20px;
+	}
+
+	.page-template-country section {
+		width: 100vw;
+		height: auto;
+		padding: 13vh 3vw;
+		margin: 0;
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: auto;
+		column-gap: 20px;
+	}
+
+	.page-template-country .entry-title {
+		margin-top: 1%;
+		margin-bottom: 5%;
+		padding: 0;
+		font-family: "Berthold Akzidenz Grotesk BE";
+		font-size: 1.5em;
+		line-height: 1.3rem;
+		text-transform: uppercase;
+	}
+
+	.index-countries .top {
+		background-color: #ffffff;
+		padding-bottom: 5vh;
+		border-bottom: 3px solid black;
+	}
+
+	.index-countries .top h1 {
+		font-size: 3rem;
+		margin: 0;
+		padding: 0;
+		line-height: 2.5rem;
+		text-transform: uppercase;
+		font-weight: 800;
+		font-family: "Berthold Akzidenz Grotesk BE";
+	}
+
+	/*.index-countries .bottom {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+		grid-gap: 1rem;
+	}*/
+
+	#gridCountries {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		background: white;
+		width: 100%;
+		column-gap: 1rem;
+		row-gap: 1rem;
+		z-index: 1;
+	}
+
+	#gridCountries div {
+		float: left;
+		position: relative;
+		width: 100%;
+		padding-bottom: 100%;
+		/* = width for a 1:1 aspect ratio */
+		margin: 0%;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		/* you change this to "contain" if you don't want the images to be cropped */
+		border: 3px solid black;
+	}
+
+	/* #gridCountries {
+		--items: 3;
+    --width: calc(100vw - 6vw);
+    display: grid;
+    grid-template-columns: repeat(var(--items), 1fr);
+    background: white;
+    width: var(--width);
+    column-gap: 10px;
+    row-gap: 10px;
+}*/
+
+	/* .index-countries .bottom > div {
+  background: white;
+	border: 3px solid black;
+  padding: 0.5vw;
+	display: grid;
+}
+
+.index-countries .bottom > div::before {
+  content: "";
+  padding-bottom: 100%;
+  display: block;
+}
+
+.index-countries .bottom > div::before,
+.index-countries .bottom > div > img {
+  grid-area: 1 / 1 / 2 / 2;
+}
+
+.index-countries .bottom > div > img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+} */
+
+	.post-template-travels .mobile .top .img-container img {
+		margin: 0;
+		padding: 0 2% !important;
+	}
+
+
+}
+
+@media (min-width: 1441px) {
+
+	.post-template section {
+		padding: 19vh 3vw 6vh 3vw;
+	}
+
+	.post-template .site-header {
+		position: fixed;
+		top: 10vh;
+		left: 3.5vw;
+	}
+
+	.page-template-index-country section {
+		width: 100vw;
+		height: auto;
+		padding: 24vh 4vw;
+		margin: 0;
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: auto;
+		column-gap: 20px;
+	}
+
+	.page-template-index-country .site-header {
+		border-bottom: 3px solid black;
+		width: calc(100vw - 7vw);
+		margin: 0;
+		background-color: white;
+	}
+
+}
+
+
+@media (min-width: 1600px) {
+
+	.post-template .site-header {
+		position: fixed;
+		top: 10vh;
+		left: 4vw;
+	}
+
+	.post-template section {
+		padding: 19vh 3vw 6vh 3vw;
+	}
+
+	.page-template-index-country .site-header {
+		position: fixed;
+		top: 0;
+		left: 4vw;
+		border-bottom: 3px solid black;
+		width: calc(100vw - 8vw);
+		margin: 0;
+		background-color: white;
+		height: 22vh;
+	}
+
+	.page-template-index-country .site-branding {
+		position: fixed;
+		top: 10vh;
+	}
+
+	.post-template section {
+		padding: 20vh 0 6vh 4vw;
+	}
+
 }

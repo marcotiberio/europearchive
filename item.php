@@ -149,3 +149,16 @@
         }
     }
 </script>
+
+<script>
+
+// ZOOM
+		document.querySelector( '.fullscreen-item' ).addEventListener( 'click', function( event ) {
+			event.preventDefault();
+			zoom.to({
+        element: event.target,
+        padding: 40
+      });
+		} );
+
+  </script>

@@ -43,10 +43,14 @@
         </div>
         <div class="item-description">
             <div class="item-description">
-                <?php 
-                    $image = get_field('item_country_icon');
-                    if( !empty( $image ) ): ?>
-                        <img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+            <?php 
+                $link = get_field('item_country_icon_link');
+                if( $link ): ?>
+                    <a class="button" href="<?php echo esc_url( $link ); ?>">
+                    <?php if( get_field('item_country_icon') ): ?>
+                        <img src="<?php the_field('item_country_icon'); ?>" />
+                    <?php endif; ?>
+                    </a>
                 <?php endif; ?>
                 <?php the_field('item_description'); ?>
             </div>

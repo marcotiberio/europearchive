@@ -70,6 +70,9 @@
                     <img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
             <?php endif; ?>
                 <?php the_field('item_description'); ?>
+                <hr>
+                <img class="logo-project" src="https://europearchive.eu/wp-content/uploads/2020/07/button-bw.png" alt="Logo Diversity United">
+                <?php the_field('diversity_united_text'); ?>
             </div>
         </div>
     </div>

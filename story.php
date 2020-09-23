@@ -21,7 +21,7 @@
     <div class="right">
         <div class="item-description">
             <?php the_field('item_description_right'); ?>
-            <img src="https://europearchive.eu/wp-content/uploads/2020/07/button-bw.png" alt="Logo Diversity United">
+            <img class="logo-project" src="https://europearchive.eu/wp-content/uploads/2020/07/button-bw.png" alt="Logo Diversity United">
             <?php the_field('diversity_united_text'); ?>
         </div>
     </div>

@@ -62,15 +62,38 @@
  <div class="mobile">
     <div class="top">
         <div class="img-container">
-        <?php 
+        <?php
             $image = get_field('item_cover_image');
-            $title = $image['title'];
-            if( !empty( $image ) ): ?>
+            if( $image ):
 
-                <a href="<?php echo esc_url($title); ?>" title="<?php echo esc_attr($title); ?>">
-                    <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                // Image variables.
+                $url = $image['url'];
+                $title = $image['title'];
+                $alt = $image['alt'];
+                $caption = $image['caption'];
+
+                // Thumbnail size attributes.
+                $size = 'thumbnail';
+                $thumb = $image['sizes'][ $size ];
+                $width = $image['sizes'][ $size . '-width' ];
+                $height = $image['sizes'][ $size . '-height' ];
+
+                // Begin caption wrap.
+                if( $caption ): ?>
+                    <div class="wp-caption">
+                <?php endif; ?>
+
+                <a href="<?php echo esc_url($url); ?>" title="<?php echo esc_attr($title); ?>">
+                    <img id="cover" src="<?php echo esc_url($thumb); ?>" alt="<?php echo esc_attr($alt); ?>" />
                 </a>
-        <?php endif; ?>
+
+                <?php 
+                // End caption wrap.
+                if( $caption ): ?>
+                    <p class="wp-caption-text"><?php echo esc_html($caption); ?></p>
+                    </div>
+                <?php endif; ?>
+            <?php endif; ?>
         </div>
     </div>
     <div class="bottom">

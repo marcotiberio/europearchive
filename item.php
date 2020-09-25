@@ -64,7 +64,7 @@
                         <div class="wp-caption">
                     <?php endif; ?>
 
-                    <a href="<?php echo esc_url($url); ?>" title="<?php echo esc_attr($title); ?>">
+                    <a href="<?php echo esc_attr($alt); ?>" title="<?php echo esc_attr($title); ?>">
                         <img src="<?php echo esc_url($thumb); ?>" alt="<?php echo esc_attr($alt); ?>" />
                     </a>
 

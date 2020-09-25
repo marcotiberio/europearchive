@@ -46,7 +46,7 @@
                 <?php 
                     $image = get_field('item_country_icon');
                     if( !empty( $image ) ): ?>
-                        <img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                        <a href="<?php echo esc_attr($image['alt']); ?>"><img src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" /></a>
                 <?php endif; ?>
                 <?php the_field('item_description'); ?>
             </div>

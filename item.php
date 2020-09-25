@@ -64,8 +64,12 @@
         <div class="img-container">
         <?php 
             $image = get_field('item_cover_image');
+            $title = $image['title'];
             if( !empty( $image ) ): ?>
-                <a href="<?php echo esc_attr($image['caption']); ?>"><img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" /></a>
+
+                <a href="<?php echo esc_url($title); ?>" title="<?php echo esc_attr($title); ?>">
+                    <img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" />
+                </a>
         <?php endif; ?>
         </div>
     </div>

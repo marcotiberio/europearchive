@@ -65,7 +65,7 @@
         <?php 
             $image = get_field('item_cover_image');
             if( !empty( $image ) ): ?>
-                <a href="<?php echo esc_attr($image['alt']); ?>"><img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" /></a>
+                <a href="<?php echo esc_attr($image['caption']); ?>"><img id="cover" src="<?php echo esc_url($image['url']); ?>" alt="<?php echo esc_attr($image['alt']); ?>" /></a>
         <?php endif; ?>
         </div>
     </div>
